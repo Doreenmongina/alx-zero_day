@@ -1,1 +1,1 @@
-My first readme
+My second readme [git assignment 2]
